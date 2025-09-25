@@ -1916,6 +1916,46 @@
             }
         ]
     },
+ "Admin Sentinel Bonnie": {
+        "Type": "Continuous",
+        "Image": "rbxassetid://18363569957",
+        "Rarity": "Admin",
+        "PlacePrice": 1,
+        "Offset": 0.35,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 9999,
+                "Damage": 9999,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 9,
+                "Range": 9999,
+                "Damage": 9999,
+                "Cooldown": 0.005
+            },
+            {
+                "Price": 9,
+                "Range": 9999,
+                "Damage": 9999,
+                "Cooldown": 0.005
+            },
+            {
+                "Price": 9,
+                "Range": 9999,
+                "Damage": 9999,
+                "Cooldown": 0.005
+            }
+        ]
+    },
+
  "{Admin} Sentinel Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
