@@ -1,6 +1,6 @@
 {
     "Freddy": {
-        "Type": "Single",
+        "Type": "Explosion",
         "Image": "rbxassetid://16620053009",
         "Rarity": "Admin",
         "PlacePrice": 300,
