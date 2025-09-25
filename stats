@@ -1916,7 +1916,7 @@
             }
         ]
     },
- "[Admin] Sentinel Bonnie": {
+ "Admin Sentinel Bonnie": {
         "Type": "Continuous",
         "Image": "rbxassetid://18363569957",
         "Rarity": "Admin",
