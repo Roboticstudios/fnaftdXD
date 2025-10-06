@@ -1,18 +1,18 @@
-{
-  "users": {
-    "3091504519": [
-      {
-        "name": "OWNER",
-        "color": ["#FF0000", "#FFFF00"]
-      }
-    ]
-  },
-  "groups": {
-    "987654": [
-      {
-        "name": "Staff",
-        "color": ["#0000FF", "#00FFFF"]
-      }
-    ]
-  }
-}
+-- Replace with your actual GitHub raw URL containing chat tag data in JSON format
+-- Example JSON:
+ {
+   "123456": {
+     "Text": "Admin",
+    "Color": "#FF0000",
+    "Gradient": {
+      "ColorSequence": ["#FF0000", "#FFFF00", "#00FF00"]
+    }
+   },
+   "PlayerName": {
+     "Text": "VIP",
+     "Color": "#00FFFF",
+     "Gradient": {
+       "ColorSequence": ["#00FFFF", "#0000FF"]
+     }
+   }
+ }
