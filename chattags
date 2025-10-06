@@ -1,20 +1,18 @@
 {
   "users": {
-    "3091504519": [
-      {"text": "Owner", "color": "Bright yellow"},
-      {"text": "Builder", "color": "Bright blue"}
-    ],
-    "654321": [
-      {"text": "Moderator", "color": "Bright red"}
+    "12345678": [
+      {
+        "name": "VIP",
+        "color": ["#FF0000", "#FFFF00"]
+      }
     ]
   },
   "groups": {
-    "98765": [
-      {"text": "GroupTag", "color": "Bright green"},
-      {"text": "EventParticipant", "color": "Bright purple"}
-    ],
-    "54321": [
-      {"text": "Admin", "color": "Really red"}
+    "987654": [
+      {
+        "name": "Staff",
+        "color": ["#0000FF", "#00FFFF"]
+      }
     ]
   }
 }
