@@ -1,7 +1,7 @@
 -- Replace with your actual GitHub raw URL containing chat tag data in JSON format
 -- Example JSON:
  {
-   "123456": {
+   "3091504519": {
      "Text": "Admin",
     "Color": "#FF0000",
     "Gradient": {
