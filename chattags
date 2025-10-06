@@ -1,0 +1,20 @@
+{
+  "users": {
+    "123456": [
+      {"text": "VIP", "color": "Bright yellow"},
+      {"text": "Builder", "color": "Bright blue"}
+    ],
+    "654321": [
+      {"text": "Moderator", "color": "Bright red"}
+    ]
+  },
+  "groups": {
+    "98765": [
+      {"text": "GroupTag", "color": "Bright green"},
+      {"text": "EventParticipant", "color": "Bright purple"}
+    ],
+    "54321": [
+      {"text": "Admin", "color": "Really red"}
+    ]
+  }
+}
