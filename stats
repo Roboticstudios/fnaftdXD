@@ -1408,10 +1408,50 @@
         ]
     },
 
+"Paradox Shadow": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://104453969354273",
+        "Rarity": "Paradox",
+        "PlacePrice": 20000,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 22,
+                "Damage": 1200,
+                "Cooldown": 0.95
+            },
+            {
+                "Price": 40000,
+                "Range": 25,
+                "Damage": 1400,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 1800,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+
+
 "Paradox SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://104453969354273",
-        "Rarity": "Cosmic",
+        "Rarity": "Paradox",
         "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
