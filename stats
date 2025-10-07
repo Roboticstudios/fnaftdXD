@@ -1409,7 +1409,7 @@
     },
 
 "Paradox Shadow": {
-        "Type": "Pierce",
+        "Type": "AOE",
         "Image": "rbxassetid://104453969354273",
         "Rarity": "Paradox",
         "PlacePrice": 20000,
