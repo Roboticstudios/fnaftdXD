@@ -2641,7 +2641,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://18673330553",
         "Rarity": "Nightmare",
-        "PlacePrice": 10000,
+        "PlacePrice": 1000,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -2653,25 +2653,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 40,
+                "Damage": 400,
                 "Cooldown": 0.05
             },
             {
                 "Price": 15000,
                 "Range": 28,
-                "Damage": 50,
+                "Damage": 500,
                 "Cooldown": 0.05
             },
             {
                 "Price": 20000,
                 "Range": 32,
-                "Damage": 60,
+                "Damage": 600,
                 "Cooldown": 0.05
             },
             {
                 "Price": 25000,
                 "Range": 35,
-                "Damage": 80,
+                "Damage": 800,
                 "Cooldown": 0.05
             }
         ]
