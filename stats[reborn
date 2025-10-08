@@ -1423,18 +1423,12 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 666,
                 "Cooldown": 0.01
             },
             {
                 "Price": 100,
                 "Range": 22,
-                "Damage": 1200,
-                "Cooldown": 0.1
-            },
-            {
-                "Price": 100,
-                "Range": 25,
                 "Damage": 6666,
                 "Cooldown": 0.1
             },
@@ -1444,22 +1438,28 @@
                 "Damage": 66666,
                 "Cooldown": 0.1
             },
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 666666,
+                "Cooldown": 0.1
+            },
              {
                 "Price": 100,
                 "Range": 25,
-                "Damage": 66666,
+                "Damage": 6666666,
                 "Cooldown": 0.1
             },
             {
                 "Price": 100,
                 "Range": 25,
-                "Damage": 66666,
+                "Damage": 666666,
                 "Cooldown": 0.1
             },
             {
                 "Price": 100,
-                "Range": 66666666,
-                "Damage": 66666666,
+                "Range": 666666666666666666,
+                "Damage": 66666666666666666,
                 "Cooldown": 0.00008
             }
         ]
