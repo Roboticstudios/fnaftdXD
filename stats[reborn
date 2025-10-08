@@ -1409,11 +1409,11 @@
     },
 
 "Paradox SpringTrap": {
-        "Type": "Pierce",
+        "Type": "AOE",
         "Image": "rbxassetid://104453969354273",
         "Rarity": "Administator",
-        "PlacePrice": 20000,
-        "Max": 2,
+        "PlacePrice": 100,
+        "Max": 200,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1424,27 +1424,34 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
-                "Cooldown": 1
+                "Cooldown": 0.01
             },
             {
-                "Price": 30000,
+                "Price": 100,
                 "Range": 22,
                 "Damage": 1200,
-                "Cooldown": 0.95
+                "Cooldown": 0.1
             },
             {
-                "Price": 40000,
+                "Price": 100,
                 "Range": 25,
-                "Damage": 1400,
-                "Cooldown": 0.9
+                "Damage": 6666,
+                "Cooldown": 0.1
+            },
+{
+                "Price": 100,
+                "Range": 25,
+                "Damage": 66666,
+                "Cooldown": 0.1
             },
             {
-                "Price": 50000,
-                "Range": 30,
-                "Damage": 1800,
-                "Cooldown": 0.8
+                "Price": 100,
+                "Range": 666666,
+                "Damage": 666666,
+                "Cooldown": 0.008
             }
         ]
+    
     },
 
     "Endo 03": {
