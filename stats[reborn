@@ -1411,7 +1411,7 @@
 "Paradox SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://104453969354273",
-        "Rarity": "Cosmic",
+        "Rarity": "Administator",
         "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
