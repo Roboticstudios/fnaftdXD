@@ -1438,7 +1438,13 @@
                 "Damage": 6666,
                 "Cooldown": 0.1
             },
-{
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 66666,
+                "Cooldown": 0.1
+            },
+             {
                 "Price": 100,
                 "Range": 25,
                 "Damage": 66666,
@@ -1446,9 +1452,9 @@
             },
             {
                 "Price": 100,
-                "Range": 666666,
-                "Damage": 666666,
-                "Cooldown": 0.008
+                "Range": 66666666,
+                "Damage": 66666666,
+                "Cooldown": 0.00008
             }
         ]
     
