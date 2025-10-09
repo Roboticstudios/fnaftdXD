@@ -1451,7 +1451,7 @@
 "Paradox SpringTrap": {
         "Type": "AOE",
         "Image": "rbxassetid://128503373439117",
-        "Rarity": "Administator",
+        "Rarity": "Developer",
         "PlacePrice": 100,
         "Max": 200,
         "hitboxOffset": {
