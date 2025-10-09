@@ -1506,10 +1506,10 @@
     
     },
 
-"CHAOS : INSANITY Aura": {
+"Chaos": {
         "Type": "AOE",
         "Image": "rbxassetid://99889859126536",
-        "Rarity": "Administator",
+        "Rarity": "Nighmare",
         "PlacePrice": 100,
         "Max": 200,
         "hitboxOffset": {
