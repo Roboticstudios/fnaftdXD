@@ -2134,7 +2134,7 @@
  "Admin Sentinel Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Admin",
+        "Rarity": "Developer",
         "PlacePrice": 1,
         "Offset": 0.35,
         "Max": 2,
@@ -2215,7 +2215,7 @@
  "{Admin} Sentinel Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Admin",
+        "Rarity": "Developer",
         "PlacePrice": 1,
         "Offset": 0.35,
         "Max": 2,
