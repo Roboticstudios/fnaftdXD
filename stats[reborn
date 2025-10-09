@@ -1564,6 +1564,63 @@
     
     },
 
+"Chaos Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://99889859126536",
+        "Rarity": "Limited",
+        "PlacePrice": 100,
+        "Max": 200,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 100,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 0.1
+            },
+             {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 7000,
+                "Damage": 7000,
+                "Cooldown": 0.00008
+            }
+        ]
+    
+    },
 
     "Endo 03": {
         "Type": "Single",
