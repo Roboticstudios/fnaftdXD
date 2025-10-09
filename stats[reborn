@@ -2174,7 +2174,7 @@
  "{Developer} Buderman": {
         "Type": "AOE",
         "Image": "rbxassetid://106677890251441",
-        "Rarity": "Void",
+        "Rarity": "Developer",
         "PlacePrice": 1,
         "Offset": 0.35,
         "Max": 2,
