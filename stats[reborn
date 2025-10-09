@@ -1509,7 +1509,7 @@
 "Chaos": {
         "Type": "AOE",
         "Image": "rbxassetid://99889859126536",
-        "Rarity": "Nighmare",
+        "Rarity": "Limited",
         "PlacePrice": 100,
         "Max": 200,
         "hitboxOffset": {
