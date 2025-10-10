@@ -1410,7 +1410,7 @@
 
 "Paradox Shadow": {
         "Type": "AOE",
-        "Image": "rbxassetid://104453969354273",
+        "Image": "rbxassetid://128503373439117",
         "Rarity": "Limited",
         "PlacePrice": 20000,
         "Max": 2,
@@ -1449,7 +1449,7 @@
 
 "Paradox Afton": {
         "Type": "AOE",
-        "Image": "rbxassetid://104453969354273",
+        "Image": "rbxassetid://128503373439117",
         "Rarity": "Limited",
         "PlacePrice": 20000,
         "Max": 20,
