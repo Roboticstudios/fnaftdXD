@@ -737,6 +737,57 @@
             }
         ]
     },
+ "Evil Endo": {
+        "Type": "Admin Support",
+        "Image": "rbxassetid://17851638702",
+        "Rarity": "Developer",
+        "PlacePrice": 1000,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 2
+            },
+            {
+                "Price": 1700,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 3
+            },
+            {
+                "Price": 2200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 4
+            },
+  {
+                "Price": 2200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 5
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 6
+            }
+        ]
+    },
+
     "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
@@ -1867,6 +1918,57 @@
             }
         ]
     },
+   "FazCadeZ": {
+        "Type": "Admin Farm",
+        "Image": "rbxassetid://18363529003",
+        "Rarity": "Developer",
+        "PlacePrice": 1000,
+        "Max": 300,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 0,
+                "Farm": 1000000
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 0,
+                "Farm": 2000000
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 0,
+                "Farm": 4000000
+            },
+ {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 0,
+                "Farm": 5000000
+            },
+            {
+                "Price": 3000,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 0,
+                "Farm": 6000000
+            }
+        ]
+    },
+
     "FazCade": {
         "Type": "Farm",
         "Image": "rbxassetid://18363529003",
