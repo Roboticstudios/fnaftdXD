@@ -1411,7 +1411,7 @@
 "Paradox Shadow": {
         "Type": "AOE",
         "Image": "rbxassetid://104453969354273",
-        "Rarity": "Paradox",
+        "Rarity": "Limited",
         "PlacePrice": 20000,
         "Max": 2,
         "hitboxOffset": {
@@ -1450,7 +1450,7 @@
 "Paradox Afton": {
         "Type": "AOE",
         "Image": "rbxassetid://104453969354273",
-        "Rarity": "Paradox",
+        "Rarity": "Limited",
         "PlacePrice": 20000,
         "Max": 20,
         "hitboxOffset": {
@@ -1489,8 +1489,8 @@
 "Paradox SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://104453969354273",
-        "Rarity": "Paradox",
-        "PlacePrice": 20000,
+        "Rarity": "Limited",
+        "PlacePrice": 2,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -1524,7 +1524,121 @@
             }
         ]
     },
+"Chaos": {
+        "Type": "AOE",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Limited",
+        "PlacePrice": 100,
+        "Max": 200,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 666,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 100,
+                "Range": 22,
+                "Damage": 6666,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 66666,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 666666,
+                "Cooldown": 0.1
+            },
+             {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 6666666,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 666666,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 666666666666666666,
+                "Damage": 66666666666666666,
+                "Cooldown": 0.00008
+            }
+        ]
+    
+    },
 
+"Chaos Freddy": {
+        "Type": "AOE",
+        "Image": "rbxassetid://16620053009",
+        "Rarity": "Limited",
+        "PlacePrice": 100,
+        "Max": 200,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 100,
+                "Cooldown": 0.01
+            },
+            {
+                "Price": 100,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 0.1
+            },
+             {
+                "Price": 100,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 50,
+                "Damage": 6000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100,
+                "Range": 7000,
+                "Damage": 100,
+                "Cooldown": 0.00008
+            }
+        ]
+    
+    },
     "Endo 03": {
         "Type": "Single",
         "Image": "rbxassetid://18363471703",
@@ -2037,7 +2151,7 @@
  "Admin Sentinel Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Admin",
+        "Rarity": "Developer",
         "PlacePrice": 1,
         "Offset": 0.35,
         "Max": 2,
@@ -2077,7 +2191,7 @@
  "{Developer} Buderman": {
         "Type": "AOE",
         "Image": "rbxassetid://106677890251441",
-        "Rarity": "Void",
+        "Rarity": "Developer",
         "PlacePrice": 1,
         "Offset": 0.35,
         "Max": 2,
@@ -2118,7 +2232,7 @@
  "{Admin} Sentinel Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://18363569957",
-        "Rarity": "Admin",
+        "Rarity": "Developer",
         "PlacePrice": 1,
         "Offset": 0.35,
         "Max": 2,
