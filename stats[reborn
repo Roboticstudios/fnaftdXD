@@ -11980,13 +11980,12 @@
     },
 
  "Evil Coffee": {
-        "Type": "Triple Boost",
+        "Type": "Damage + Range Booster",
         "Image": "rbxassetid://131733393221448",
         "Rarity": "Limited",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Helping Hand", "Description": "Buffs all stats by 20%"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
