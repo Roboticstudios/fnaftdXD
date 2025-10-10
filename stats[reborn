@@ -12025,7 +12025,7 @@
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8,
+                "CooldownBoost": 0.2,
                 "DamageBoost": 1.5,
                 "RangeBoost": 2
             }
