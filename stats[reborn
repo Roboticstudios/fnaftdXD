@@ -11978,6 +11978,61 @@
             }
         ]
     },
+
+ "Best Coffee": {
+        "Type": "Triple Boost",
+        "Image": "rbxassetid://131733393221448",
+        "Rarity": "Limited",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Helping Hand", "Description": "Buffs all stats by 20%"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 1750,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85,
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 2000,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "CooldownBoost": 0.82,
+                "DamageBoost": 1.17,
+                "RangeBoost": 1.17
+            },
+            {
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.5,
+                "RangeBoost": 2
+            }
+        ]
+    },
+
     "Orville": {
         "Type": "Splash + Slow",
         "Image": "rbxassetid://97997092352387",
