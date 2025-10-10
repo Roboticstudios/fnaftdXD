@@ -771,23 +771,15 @@
                 "Cooldown": 1,
                 "DamageBoost": 4
             },
-  {
-                "Price": 2200,
-                "Range": 15,
-                "Damage": 0,
-                "Cooldown": 1,
-                "DamageBoost": 5
-            },
             {
                 "Price": 2500,
                 "Range": 15,
                 "Damage": 0,
-                "Cooldown": 1
+                "Cooldown": 1,
                 "DamageBoost": 6
             }
         ]
     },
-
     "Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://17690383931",
