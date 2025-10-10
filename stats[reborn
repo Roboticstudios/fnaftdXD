@@ -9829,7 +9829,7 @@
         ]
     },
     "Coffee": {
-        "Type": "Damage + Cooldown Boost",
+        "Type": "Triple Booster",
         "Image": "rbxassetid://131733393221448",
         "Rarity": "Forgotten",
         "PlacePrice": 400,
