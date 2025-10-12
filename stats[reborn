@@ -12073,6 +12073,55 @@
         ]
     },
 
+"OP Endo": {
+        "Type": "Just too OP",
+        "Image": "rbxassetid://131733393221448",
+        "Rarity": "Developer",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "DamageBoost": 5,
+                "RangeBoost":  5
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "DamageBoost": 10,
+                "RangeBoost": 10
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "DamageBoost": 20,
+                "RangeBoost": 20
+            },
+            {
+                "Price": 0,
+                "Range": 1000,
+                "Damage": 100,
+                "Cooldown": 1,
+                "DamageBoost": 100,
+                "RangeBoost": 100
+            }
+        ]
+    },
+
  "Evil Coffee": {
         "Type": "Damage + Range Booster",
         "Image": "rbxassetid://131733393221448",
