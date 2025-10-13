@@ -158,7 +158,7 @@
  "Ignited Springtrap": {
         "Type": "Melee",
         "Image": "rbxassetid://18356146630",
-        "Rarity": "Rare",
+        "Rarity": "Nightmare",
         "PlacePrice": 600,
         "Offset": 0.65,
         "Max": 5,
