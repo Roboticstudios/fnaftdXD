@@ -12077,7 +12077,7 @@
         "Type": "Just too OP",
         "Image": "rbxassetid://17851638702",
         "Rarity": "Developer",
-        "PlacePrice": 1500,
+        "PlacePrice": 0,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
