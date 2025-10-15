@@ -9,7 +9,6 @@
       "addedBy": "ModeratorAlice",
       "notes": "Server exploit discovered 2025-10-15"
     },
-
     {
       "type": "user",
       "userId": 87654321,
@@ -19,7 +18,6 @@
       "addedBy": "ModBob",
       "notes": "1 day temp ban"
     },
-
     {
       "type": "group",
       "groupId": 142723639,
@@ -30,7 +28,6 @@
       "addedBy": "Owner",
       "notes": "Blocked Developer|Owner"
     },
-
     {
       "type": "group",
       "groupId": 555555,
@@ -43,4 +40,3 @@
     }
   ]
 }
-
