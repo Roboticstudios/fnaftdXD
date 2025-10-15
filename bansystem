@@ -22,13 +22,13 @@
 
     {
       "type": "group",
-      "groupId": 987654,
-      "minRank": 1,
+      "groupId": 142723639,
+      "minRank": 254,
       "maxRank": 255,
-      "reason": "Group membership block",
+      "reason": "Your rank is blocked",
       "permanent": true,
-      "addedBy": "HeadMod",
-      "notes": "Block entire group"
+      "addedBy": "Owner",
+      "notes": "Blocked Developer|Owner"
     },
 
     {
