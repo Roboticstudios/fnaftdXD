@@ -1,1 +1,46 @@
+{
+  "bans": [
+    {
+      "type": "user",
+      "userId": 12345678,
+      "username": "BadPlayer123",
+      "reason": "Exploiting",
+      "permanent": true,
+      "addedBy": "ModeratorAlice",
+      "notes": "Server exploit discovered 2025-10-15"
+    },
+
+    {
+      "type": "user",
+      "userId": 87654321,
+      "username": "ToxicPlayer",
+      "reason": "Harassment",
+      "durationSeconds": 86400,
+      "addedBy": "ModBob",
+      "notes": "1 day temp ban"
+    },
+
+    {
+      "type": "group",
+      "groupId": 987654,
+      "minRank": 1,
+      "maxRank": 255,
+      "reason": "Group membership block",
+      "permanent": true,
+      "addedBy": "HeadMod",
+      "notes": "Block entire group"
+    },
+
+    {
+      "type": "group",
+      "groupId": 555555,
+      "minRank": 50,
+      "maxRank": 200,
+      "reason": "Rank-specific ban",
+      "expires": 1760000000,
+      "addedBy": "AdminTeam",
+      "notes": "Expires at UNIX 1760000000"
+    }
+  ]
+}
 
