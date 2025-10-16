@@ -1,9 +1,6 @@
 {
   "updatedAt": "2025-10-15T12:00:00Z",
   "bans": [
-    { "type": "user", "id": 3091504519, "name": "T_Thebedwasgod", "reason": "Test (1 day)", "addedBy": "Bob", "durationSeconds": 86400 },
-    { "type": "group", "id": 142723639, "minRank": 254, "maxRank": 255, "reason": "Blocked Developer|Owner", "addedBy": "Owner", "permanent": true },
-
-   { "type": "group", "id": 555555, "minRank": 50, "maxRank": 200, "reason": "Rank restricted", "addedBy": "AdminTeam", "expires": 1760000000 }
+    { "type": "group", "id": 142723639, "minRank": 254, "maxRank": 255, "reason": "Blocked Developer|Owner", "addedBy": "Vertex Studios Anti Cheat", "permanent": true },
   ]
 }
