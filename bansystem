@@ -4,7 +4,7 @@
     { "type": "user", "id" 929173066: , "name": "Sukuna", "reason": "Breaking Rules", "addedBy": "Vertex Studios Anti Cheat", "permanent": true },
     { "type": "group", "id": , "minRank": 254, "maxRank": 255, "reason": "Blocked Developer|Owner", "addedBy": "Owner", "permanent": true },
 
-
+   { "type": "group", "id": , "minRank": 50, "maxRank": 200, "reason": "Rank restricted", "addedBy": "AdminTeam", "expires": 176000000000 },
    { "type": "group", "id": , "minRank": 50, "maxRank": 200, "reason": "Rank restricted", "addedBy": "AdminTeam", "expires": 1760000000 }
   ]
 }
