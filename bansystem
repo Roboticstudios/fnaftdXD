@@ -1,42 +1,9 @@
 {
+  "updatedAt": "2025-10-15T12:00:00Z",
   "bans": [
-    {
-      "type": "user",
-      "userId": 12345678,
-      "username": "BadPlayer123",
-      "reason": "Exploiting",
-      "permanent": true,
-      "addedBy": "ModeratorAlice",
-      "notes": "Server exploit discovered 2025-10-15"
-    },
-    {
-      "type": "user",
-      "userId": 87654321,
-      "username": "ToxicPlayer",
-      "reason": "Harassment",
-      "durationSeconds": 86400,
-      "addedBy": "ModBob",
-      "notes": "1 day temp ban"
-    },
-    {
-      "type": "group",
-      "groupId": 142723639,
-      "minRank": 254,
-      "maxRank": 255,
-      "reason": "Your rank is blocked",
-      "permanent": true,
-      "addedBy": "Owner",
-      "notes": "Blocked Developer|Owner"
-    },
-    {
-      "type": "group",
-      "groupId": 555555,
-      "minRank": 50,
-      "maxRank": 200,
-      "reason": "Rank-specific ban",
-      "expires": 1760000000,
-      "addedBy": "AdminTeam",
-      "notes": "Expires at UNIX 1760000000"
-    }
+    { "type": "user", "id": 12345678, "name": "BadPlayer123", "reason": "Exploiting", "addedBy": "Alice", "permanent": true },
+    { "type": "user", "id": 87654321, "name": "ToxicPlayer", "reason": "Harassment (1 day)", "addedBy": "Bob", "durationSeconds": 86400 },
+    { "type": "group", "id": 142723639, "minRank": 254, "maxRank": 255, "reason": "Blocked Developer|Owner", "addedBy": "Owner", "permanent": true },
+    { "type": "group", "id": 555555, "minRank": 50, "maxRank": 200, "reason": "Rank restricted", "addedBy": "AdminTeam", "expires": 1760000000 }
   ]
 }
