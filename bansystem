@@ -4,6 +4,7 @@
     { "type": "user", "id": 12345678, "name": "BadPlayer123", "reason": "Exploiting", "addedBy": "Alice", "permanent": true },
     { "type": "user", "id": 87654321, "name": "ToxicPlayer", "reason": "Harassment (1 day)", "addedBy": "Bob", "durationSeconds": 86400 },
     { "type": "group", "id": 142723639, "minRank": 254, "maxRank": 255, "reason": "Blocked Developer|Owner", "addedBy": "Owner", "permanent": true },
+
     { "type": "group", "id": 555555, "minRank": 50, "maxRank": 200, "reason": "Rank restricted", "addedBy": "AdminTeam", "expires": 1760000000 }
   ]
 }
