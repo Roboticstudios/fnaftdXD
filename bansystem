@@ -1,6 +1,6 @@
 {
   "updatedAt": "2025-10-15T12:00:00Z",
   "bans": [
-    { "type": "group", "id": 142723639, "minRank": 254, "maxRank": 255, "reason": "Blocked Developer|Owner", "addedBy": "Vertex Studios Anti Cheat", "permanent": true },
+    { "type": "group", "id": 142723639, "minRank": 254, "maxRank": 255, "reason": "Blocked Group Rank", "addedBy": "Vertex Studios Anti Cheat", "permanent": true },
   ]
 }
