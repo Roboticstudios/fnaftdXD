@@ -2,6 +2,8 @@
   "updatedAt": "2025-10-15T12:00:00Z",
   "bans": [
     { "type": "user", "id" 929173066: , "name": "Sukuna", "reason": "Breaking Rules", "addedBy": "Vertex Studios Anti Cheat", "permanent": true },
-    { "type": "group", "id": 142723639, "minRank": 254, "maxRank": 255, "reason": "Blocked Group Rank", "addedBy": "Vertex Studios Anti Cheat", "permanent": true }
+    { "type": "group", "id": , "minRank": 254, "maxRank": 255, "reason": "Blocked Developer|Owner", "addedBy": "Owner", "permanent": true },
+
+   { "type": "group", "id": , "minRank": 50, "maxRank": 200, "reason": "Rank restricted", "addedBy": "AdminTeam", "expires": 1760000000 }
   ]
 }
