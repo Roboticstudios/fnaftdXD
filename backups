@@ -1,1 +1,9 @@
+{
+  "updatedAt": "2025-10-15T12:00:00Z",
+  "bans": [
+    { "type": "user", "id": , "name": "", "reason": "Test (1 day)", "addedBy": "Bob", "durationSeconds": 86400 },
+    { "type": "group", "id": , "minRank": 254, "maxRank": 255, "reason": "Blocked Developer|Owner", "addedBy": "Owner", "permanent": true },
 
+   { "type": "group", "id": , "minRank": 50, "maxRank": 200, "reason": "Rank restricted", "addedBy": "AdminTeam", "expires": 1760000000 }
+  ]
+}
